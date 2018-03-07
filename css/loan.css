@@ -97,3 +97,24 @@ html,body{
 	color:white;
 	border: none;
 }
+.footer {
+    color: #333333;
+    text-align: center;
+    margin-top: 0.7rem;
+}
+
+.footer ul {
+    width: 100%;
+    display: flex;
+    margin-top: 0.5rem;
+}
+
+.footer ul li {
+    width: 25%;
+}
+
+.footer p {
+    color: #eaeaea;
+    margin-top: 0.7rem;
+    margin-bottom: 0.5rem;
+}
